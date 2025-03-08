@@ -103,7 +103,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-Запустить фронтенд-приложение [[Frontend-catgram]
+Запустить фронтенд-приложение [Frontend-catgram]
 ```
 Инструкция по запуску фронтенд-приложение[название вашего приложения] находится в его README.md
 ```
